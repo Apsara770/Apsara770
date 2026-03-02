@@ -14,7 +14,7 @@
 ### 💫 About Me
 I am a passionate **Associate Software Engineer** based in Sri Lanka, dedicated to building scalable web applications and solving complex problems. Currently, I'm diving deep into the world of **Angular** to master frontend architecture.
 
-- 🔭 **Portfolio:** Explore my work at [sandamini.gt.tc](https://sandamini.gt.tc/)
+- 🔭 **Portfolio:** Explore my work at [sandamini.gt.tc]([[https://sandamini.gt.tc/](https://apsara770.github.io/Sandamini/)](https://apsara770.github.io/Sandamini/))
 - 🌱 **Learning:** Currently mastering **Angular & Advanced Node.js**
 - ⚡ **Fun Fact:** You can just call me **Sanda**!
 - ✍️ **Content:** I share my coding journey on my YouTube channel, **Debug Diaries**.
