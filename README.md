@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandamini-weerasekara-631521348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewwandiapsara171@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@sandaminiweerasekara?si=8etYc7sItuM0NK_K)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=36BCF7)](https://apsara770.github.io/Sandamini/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=36BCF7)](https://sandamini.gt.tc/)
 
 <img src="https://komarev.com/ghpvc/?username=apsara770&label=Profile+Views&color=36BCF7&style=flat-square" alt="Profile Views" />
 
