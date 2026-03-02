@@ -14,7 +14,7 @@
 ### 💫 About Me
 I am a passionate **Associate Software Engineer** based in Sri Lanka, dedicated to building scalable web applications and solving complex problems. Currently, I'm diving deep into the world of **Angular** to master frontend architecture.
 
-- 🔭 **Portfolio:** Explore my work at [sandamini.gt.tc]([[https://sandamini.gt.tc/](https://apsara770.github.io/Sandamini/)](https://apsara770.github.io/Sandamini/))
+- 🔭 **Portfolio:** Explore my work at [apsara770.github.io/Sandamini/](https://apsara770.github.io/Sandamini/)
 - 🌱 **Learning:** Currently mastering **Angular & Advanced Node.js**
 - ⚡ **Fun Fact:** You can just call me **Sanda**!
 - ✍️ **Content:** I share my coding journey on my YouTube channel, **Debug Diaries**.
@@ -50,10 +50,10 @@ I am a passionate **Associate Software Engineer** based in Sri Lanka, dedicated 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apsara770&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apsara770&theme=tokyonight" />
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=apsara770&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
