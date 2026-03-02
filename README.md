@@ -50,10 +50,10 @@ I am a passionate **Associate Software Engineer** based in Sri Lanka, dedicated 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apsara770&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apsara770&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=apsara770&show_icons=true&theme=tokyonight" alt="Sanda's Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apsara770&theme=tokyonight" alt="Sanda's GitHub Streak" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=apsara770&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
