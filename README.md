@@ -78,14 +78,6 @@ const sanda: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apsara770&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-</div>
-
----
-
 ## 📺 Debug Diaries — Latest Content
 
 > 🎬 I share my software engineering journey, tips, and tutorials on **[Debug Diaries](https://youtube.com/@sandaminiweerasekara?si=8etYc7sItuM0NK_K)** — subscribe for weekly dev content!
